@@ -1,0 +1,44 @@
+body{
+    background-color: #f7f7f7;
+}
+table{
+    font-size: 10pt;
+    color: #151940;
+}
+.subjectFont{
+    color: #e90000;
+    font-weight: bold;
+}
+.optul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.optul li{
+    float: left;
+    width: 180px;
+    height: 30px;
+    line-height: 30px;
+}
+
+.optul2{
+    margin: 0px;
+    padding: 20px;
+    list-style: none;
+}
+.optul2 li{
+    height: 30px;
+    width: 90%;
+}
+.pwidth{
+    width: 90%;
+}
+
+.question{
+    font-weight: bold;
+    font-size: 16px;
+    color: #1b6d85;
+}
+.pleft{
+    margin-left: 100px;
+}

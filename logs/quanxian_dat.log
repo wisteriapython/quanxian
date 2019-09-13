@@ -1,0 +1,2 @@
+2019-01-03 15:00:30,938-[TS] DEBUG main com.yujian.util.MyBatisHelper - 加载配置文件mybatis-config.xml
+2019-01-03 15:00:31,945-[TS] DEBUG main com.yujian.util.MyBatisHelper - 创建sqlsessionfactory成功
